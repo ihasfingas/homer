@@ -93,6 +93,12 @@ services:
   - name: "//Networking"
     icon: "fas fa-network-wired"
     items:
+      - name: "Cloudflare"
+        subtitle: "DNS, CDN & DDoS protection"
+        tag: "cloud"
+        tagstyle: "is-warning"
+        url: "https://dash.cloudflare.com/"
+        target: "_blank"
       - name: "Wireshark"
         subtitle: "Network monitoring"
         tag: "network"
