@@ -42,36 +42,6 @@ colors:
     background-image: "../assets/wallpaper.jpeg"
 
 services:
-  - name: "//GitHub"
-    icon: "fas fa-github"
-    items:
-      - name: "Homer Theme"
-        logo: "assets/tools/walkx.png"
-        subtitle: "The official Homer Theme github!"
-        tag: "github"
-        tagstyle: "is-primary"
-        url: "https://github.com/WalkxCode/Homer-Theme"
-        target: "_blank"
-
-  - name: "//Reddit"
-    icon: "fas fa-reddit"
-    items:
-      - name: "The original reddit post!"
-        logo: "assets/tools/reddit.png"
-        subtitle: "Yes... this is Homer."
-        tag: "reddit"
-        tagstyle: "is-info"
-        url: "https://www.reddit.com/r/selfhosted/comments/q9e82c/yes_this_is_homer_yes_i_spent_2_hours_customizing/"
-        target: "_blank"
-
-  - name: "//Reference"
-    icon: "fas fa-terminal"
-    items:
-      - name: "PowerShell SHA512 Hash"
-        subtitle: "Get-HashFile C:\\Users\\user1\\Downloads\\downloaded-file.iso -Algorithm SHA512"
-        tag: "powershell"
-        tagstyle: "is-dark"
-
   - name: "//Utilities"
     icon: "fas fa-toolbox"
     items:
